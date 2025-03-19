@@ -17,7 +17,7 @@ export default function Home() {
   return (
     <>
       <main className="container mx-auto">
-        <h1 className="my-8 text-center text-4xl font-bold uppercase">
+        <h1 className="my-8 text-center text-2xl font-bold uppercase md:text-3xl lg:text-4xl">
           Sản Phẩm Nổi Bật
         </h1>
         <div className="grid grid-cols-2 items-center justify-items-center gap-2 bg-white md:grid-cols-4 md:gap-5">
